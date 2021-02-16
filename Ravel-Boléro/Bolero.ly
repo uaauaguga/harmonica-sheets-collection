@@ -1,8 +1,8 @@
-\score {
 \header {
   title = "Boléro"
   composer = "Joseph-Maurice Ravel"
 }
+\score {
 \relative c' {
   \time 3/4
   g8 \tuplet 3/2 {g16 g g} g8 \tuplet 3/2 {g16 g g} g8 g8 | 
